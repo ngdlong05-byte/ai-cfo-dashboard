@@ -1,0 +1,6 @@
+{
+  "name": "AI CFO - Smart Costing & COGS Analyzer",
+  "description": "Financial data analysis tool using Gemini to identify profitable product lines and suggest cost reduction strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
